@@ -8,7 +8,7 @@ function setup() {
 
 createCanvas(600, 600);
 
-background("whate");
+background("black");
 
 cor = color(random(255), random(255), random(255));
 
