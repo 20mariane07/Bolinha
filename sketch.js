@@ -10,7 +10,7 @@ createCanvas(600, 600);
 
 background("black");
 
-cor = color(random(255), random(255), random(255));
+cor = color(random(0), random(0), random(0));
 
 posicaoHorizontal = 200;
 
