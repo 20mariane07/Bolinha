@@ -8,9 +8,9 @@ function setup() {
 
 createCanvas(800, 800);
 
-background("black");
+background("purple");
 
-cor = color(random(0), random(0), random(0));
+cor = color(random(255), random(255), random(255));
 
 posicaoHorizontal = 200;
 
